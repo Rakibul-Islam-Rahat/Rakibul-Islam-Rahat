@@ -51,8 +51,8 @@ I'm a developer who loves building **custom WordPress plugins** from scratch and
 
 ### 🔗 Let’s Connect
 
-- 🌐 Portfolio: [yourwebsite.com](https://rahat94.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/rakibul-islam-rahat)  
+- 🌐 Portfolio: [Rahat94](https://rahat94.com)  
+- 💼 LinkedIn: [Md. Rakibul Islam Rahat](https://linkedin.com/in/rakibul-islam-rahat)  
 - 📬 Email: raqibrahat594@gmail.com
 
 ---
