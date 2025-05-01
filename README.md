@@ -1,46 +1,63 @@
-# 👋 Hi there, I'm Rahat
-
-I'm a passionate **Full-Stack Web Developer** focused on **WordPress Plugin Development** and **React.js Front-End Engineering**. I enjoy building fast, secure, and scalable solutions with clean code and solid architecture.
-
----
-
-## 🚀 About Me
-
-- 🔧 Specialized in **custom WordPress plugins** with deep knowledge of hooks, filters, CPTs, shortcodes, and admin customization.
-- ⚛️ Front-end enthusiast using **React.js** to create dynamic, user-friendly interfaces.
-- 🛠️ Experienced in **PHP**, **MySQL**, **REST APIs**, **AJAX**, and performance optimization.
-- 💼 Actively working on freelance and open-source projects.
-- 📚 Always learning and exploring new tech stacks to improve my skills.
+<h1 align="center">👋 Hey there, I'm Rahat</h1>
+<p align="center">
+  WordPress Plugin Architect | React.js Front-End Developer | Backend API Builder
+</p>
 
 ---
 
-## 🧰 Tech Stack & Tools
+### 🧠 About Me
 
-- **Languages:** PHP, JavaScript (ES6+), HTML5, CSS3
-- **CMS:** WordPress Plugin Development
-- **Frontend:** React.js, JSX, Tailwind CSS (optional)
-- **Backend:** PHP, MySQL, REST API
-- **Other Tools:** Git, GitHub, Postman, VS Code, Chrome DevTools
-- **Workflow:** Debugging, Code Refactoring, Agile Collaboration
+I'm a developer who loves building **custom WordPress plugins** from scratch and crafting **high-performance frontends** with React.js. Whether it’s creating secure, scalable backends or dynamic UIs, I care about **clean architecture**, **performance**, and **user experience**.
 
----
-
-## 📌 Featured Projects
-
-- 🔗 [Plugin](https://github.com/yourusername/plugin-repo) – A custom WordPress plugin that solves XYZ problems.
-- 🔗 [React](https://github.com/yourusername/react-project) – A modern frontend app built with React and RESTful APIs.
-- 🔗 More projects coming soon...
+🔹 Deep knowledge of WordPress Core, Hooks, Filters, CPTs, and Admin UI  
+🔹 RESTful APIs with PHP + MySQL — secure, fast, scalable  
+🔹 Frontends that *feel alive* — React.js, AJAX, and dynamic state management  
+🔹 Problem solver, clean coder, and performance tweaker
 
 ---
 
-## 📫 Let’s Connect
+### 🚀 Tech Stack
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/rakibul-islam-rahat)
-- 🌐 Portfolio: [yourwebsite.com](https://Rahat94.com)
-- 📧 Email: raqibrahat594@gmail.com
+**Languages**:  
+`PHP` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `JSON`
+
+**CMS & Backend**:  
+`WordPress` • `Custom Plugin Development` • `REST API` • `MySQL` • `AJAX`
+
+**Frontend & UI**:  
+`React.js` • `JSX` • `Tailwind CSS` • `Responsive Design`
+
+**Tools & Workflow**:  
+`Git` • `GitHub` • `VS Code` • `Postman` • `Chrome DevTools`  
+`Agile` • `Debugging` • `Code Refactoring` • `Performance Optimization`
 
 ---
 
-> “Code is not just what a computer understands, but what other humans can read.”  
-> — Rahat
+### 📂 Featured Projects
 
+- 🔧 **Custom Membership Plugin**  
+  A fully-featured membership plugin with CPTs, REST API, AJAX-powered filters, and admin panel settings.  
+  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/plugin-repo)
+
+- ⚛️ **React Frontend Dashboard**  
+  Built a single-page React.js dashboard that consumes a REST API and provides live updates.  
+  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/react-dashboard)
+
+- 📦 **Headless WordPress Integration**  
+  Created a headless WordPress REST API with a React frontend.  
+  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/headless-wp)
+
+---
+
+### 🔗 Let’s Connect
+
+- 🌐 Portfolio: [yourwebsite.com](https://rahat94.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/rakibul-islam-rahat)  
+- 📬 Email: raqibrahat594@gmail.com
+
+---
+
+<p align="center">
+  <em>"Code that speaks clarity is better than code that only compiles."</em><br/>
+  — Rahat
+</p>
