@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Md. Rakibul Islam Rahat 👋</h1>
+<h1 align="center"> Md. Rakibul Islam Rahat 👋</h1>
 <h3 align="center">CSE Student | Full-Stack Developer | DevOps Enthusiast | System Design Learner | DSA Practitioner</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Rakibul-Islam-Rahat">
+    <img src="https://komarev.com/ghpvc/?username=Rakibul-Islam-Rahat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -73,9 +73,7 @@
 ---
 
 ## ⭐ Featured Projects
-> Add your best 2–3 repositories here with short descriptions and links.
 
-`markdown
 🔹 [Project 1 - Full-Stack Blog App](https://github.com/Rakibul-Islam-Rahat/project1)  
 A full-featured blog application with Django backend, React frontend, user authentication, and full CRUD.
 
@@ -83,6 +81,7 @@ A full-featured blog application with Django backend, React frontend, user authe
 Containerized app using Docker, deployed via GitHub Actions on AWS EC2 with Nginx + SSL.
 
 🔹 [Project 3 - LeetCode Profile](https://leetcode.com/Rakibul_Islam_Rahat)  
+---
 My growing archive of DSA problem solutions with clean, readable code.
 
 > *"Driven by curiosity. Grounded in fundamentals. Evolving with technology."*
