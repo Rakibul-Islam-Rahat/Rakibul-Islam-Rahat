@@ -74,15 +74,16 @@
 
 ## ⭐ Featured Projects
 
-🔹 [Project 1 - Full-Stack Blog App](https://github.com/Rakibul-Islam-Rahat/project1)  
+🔹 [Project 1 - Full-Stack App](https://github.com/Rakibul-Islam-Rahat/project1)  
 A full-featured blog application with Django backend, React frontend, user authentication, and full CRUD.
 
 🔹 [Project 2 - DevOps CI/CD Demo](https://github.com/Rakibul-Islam-Rahat/project2)  
 Containerized app using Docker, deployed via GitHub Actions on AWS EC2 with Nginx + SSL.
 
 🔹 [Project 3 - LeetCode Profile](https://leetcode.com/Rakibul_Islam_Rahat)  
----
+
 My growing archive of DSA problem solutions with clean, readable code.
+---
 
 > *"Driven by curiosity. Grounded in fundamentals. Evolving with technology."*
 
