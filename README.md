@@ -38,7 +38,6 @@ Hi there! I'm Rahat, a passionate Computer Science student with a strong dedicat
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahat-cse&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-cse&theme=radical" />
 </p>
 
