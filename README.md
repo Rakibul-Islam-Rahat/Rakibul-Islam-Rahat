@@ -1,55 +1,89 @@
-# 👨‍💻 Md. Rakibul Islam (Rahat) — Full-Stack Developer | DevOps Enthusiast
+<h1 align="center">Hi, I'm Md. Rakibul Islam Rahat 👋</h1>
+<h3 align="center">CSE Student | Full-Stack Developer | DevOps Enthusiast | System Design Learner | DSA Practitioner</h3>
 
-Hi there! I'm Rahat, a passionate Computer Science student with a strong dedication to building scalable full-stack web applications and mastering system-level fundamentals. I enjoy solving complex problems and continuously sharpening my craft through hands-on development and technical exploration.
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack & Core Competencies
+## 🧑‍💻 About Me
 
-### 👨‍💻 Full-Stack Development
-- Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
-- Backend: Django, Django REST Framework, Python
-- Authentication: JWT, OAuth, Session-based Auth
-- API Integration: RESTful APIs, Axios, Postman
+🚀 I’m a highly passionate and focused Computer Science student, building scalable full-stack applications with modern tech. I aim to bridge core CS fundamentals with real-world software engineering practices.
+
+🎯 Currently, I’m working on deploying cloud-ready apps, deepening my understanding of system design, and consistently solving algorithmic problems to stay sharp.
+
+---
+
+## 🔧 Tech Stack & Expertise
+
+### 🌐 Frontend
+- React.js, JavaScript (ES6+), Tailwind CSS
+- Component-based UI, SPA, Axios, Responsive Design
+
+### 🖥️ Backend
+- Django, Django REST Framework, Python
+- REST APIs, JWT Auth, ORM & Raw SQL
 
 ### ⚙️ DevOps & Deployment
-- Containers: Docker
-- Cloud Services: AWS EC2, S3, CloudFront
-- CI/CD: GitHub Actions, Netlify, Heroku
-- Monitoring: Basic knowledge of Prometheus, Grafana
+- Docker, GitHub Actions (CI/CD)
+- AWS EC2, S3, Nginx, Gunicorn, VPS Hosting
+- Linux Server Configuration
 
-### 🧠 Computer Science Fundamentals
-- Data Structures & Algorithms: LeetCode, Codeforces, HackerRank
-- System Design: Intermediate-level knowledge (Scalability, Load Balancing, Microservices)
-- Operating Systems: Process Scheduling, Memory Management, Multithreading
-- Databases: PostgreSQL, MySQL, SQLite (ORMs & Raw Queries)
-- Networking: TCP/IP, HTTP/HTTPS, DNS, OSI Model
+### 🏗️ System Design (Intermediate)
+- Scalable Architecture, Load Balancing, Caching
+- Database Replication & Sharding
+- Microservices Concepts
 
----
+### 🧠 DSA (Data Structures & Algorithms)
+- Competitive Programming: LeetCode, Codeforces
+- Concepts: Recursion, Graphs, DP, Trees, Greedy
 
-## 🧰 Tools & Technologies
-
-| Version Control | Dev Tools        | Code Hosting | Others            |
-|-----------------|------------------|--------------|-------------------|
-| Git & GitHub    | VS Code, IntelliJ | GitHub Pages | Postman, Figma    |
+### 🧩 CS Fundamentals
+- OS: Scheduling, Threading, Deadlocks  
+- DBMS: Indexing, Transactions, Normalization  
+- Networking: OSI Model, TCP/IP, HTTP, DNS  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-cse&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakibul-Islam-Rahat&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Islam-Rahat&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Currently Learning
+- Advanced DevOps (Kubernetes, Monitoring, Terraform)
+- System Design (Deep Dive into Distributed Systems)
+- Building freelance-ready projects for real-world use
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakibul-islam-rahat)
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+---
+
+## 📫 Connect with Me
+
+- 🌐 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/rakibul-islam-rahat)
+- 💼 Portfolio: [your-portfolio-site.com](https://your-portfolio-site.com)
 - 📬 Email: md94rakibulislam@gmail.com
 
 ---
+
+## ⭐ Featured Projects
+> Add your best 2–3 repositories here with short descriptions and links.
+
+`markdown
+🔹 [Project 1 - Full-Stack Blog App](https://github.com/Rakibul-Islam-Rahat/project1)  
+A full-featured blog application with Django backend, React frontend, user authentication, and full CRUD.
+
+🔹 [Project 2 - DevOps CI/CD Demo](https://github.com/Rakibul-Islam-Rahat/project2)  
+Containerized app using Docker, deployed via GitHub Actions on AWS EC2 with Nginx + SSL.
+
+🔹 [Project 3 - LeetCode Profile](https://leetcode.com/Rakibul_Islam_Rahat)  
+My growing archive of DSA problem solutions with clean, readable code.
 
 > *"Driven by curiosity. Grounded in fundamentals. Evolving with technology."*
 
