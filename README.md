@@ -1,4 +1,4 @@
-# 👨‍💻 Md. Raqibul Islam (Rahat) — Full-Stack Developer | DevOps Enthusiast
+# 👨‍💻 Md. Rakibul Islam (Rahat) — Full-Stack Developer | DevOps Enthusiast
 
 Hi there! I'm Rahat, a passionate Computer Science student with a strong dedication to building scalable full-stack web applications and mastering system-level fundamentals. I enjoy solving complex problems and continuously sharpening my craft through hands-on development and technical exploration.
 
