@@ -52,7 +52,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rakibul-Islam-Rahat&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Islam-Rahat&theme=tokyonight" />
 </p>
 
 ---
