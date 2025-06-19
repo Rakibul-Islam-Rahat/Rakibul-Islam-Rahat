@@ -1,59 +1,58 @@
-<h1 align="center">👋 Hey there, I'm Rahat</h1>
+# 👨‍💻 Md. Raqibul Islam (Rahat) — Full-Stack Developer | DevOps Enthusiast
+
+Hi there! I'm Rahat, a passionate Computer Science student with a strong dedication to building scalable full-stack web applications and mastering system-level fundamentals. I enjoy solving complex problems and continuously sharpening my craft through hands-on development and technical exploration.
+
+---
+
+## 🚀 Tech Stack & Core Competencies
+
+### 👨‍💻 Full-Stack Development
+- Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
+- Backend: Django, Django REST Framework, Python
+- Authentication: JWT, OAuth, Session-based Auth
+- API Integration: RESTful APIs, Axios, Postman
+
+### ⚙️ DevOps & Deployment
+- Containers: Docker
+- Cloud Services: AWS EC2, S3, CloudFront
+- CI/CD: GitHub Actions, Netlify, Heroku
+- Monitoring: Basic knowledge of Prometheus, Grafana
+
+### 🧠 Computer Science Fundamentals
+- Data Structures & Algorithms: LeetCode, Codeforces, HackerRank
+- System Design: Intermediate-level knowledge (Scalability, Load Balancing, Microservices)
+- Operating Systems: Process Scheduling, Memory Management, Multithreading
+- Databases: PostgreSQL, MySQL, SQLite (ORMs & Raw Queries)
+- Networking: TCP/IP, HTTP/HTTPS, DNS, OSI Model
+
+---
+
+## 🧰 Tools & Technologies
+
+| Version Control | Dev Tools        | Code Hosting | Others            |
+|-----------------|------------------|--------------|-------------------|
+| Git & GitHub    | VS Code, IntelliJ | GitHub Pages | Postman, Figma    |
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  WordPress Plugin Architect | React.js Front-End Developer | Backend API Builder
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rahat-cse&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahat-cse&theme=radical" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 📫 Let's Connect
 
-I'm a developer who loves building **custom WordPress plugins** from scratch and crafting **high-performance frontends** with React.js. Whether it’s creating secure, scalable backends or dynamic UIs, I care about **clean architecture**, **performance**, and **user experience**.
-
-🔹 Deep knowledge of WordPress Core, Hooks, Filters, CPTs, and Admin UI  
-🔹 RESTful APIs with PHP + MySQL — secure, fast, scalable  
-🔹 Frontends that *feel alive* — React.js, AJAX, and dynamic state management  
-🔹 Problem solver, clean coder, and performance tweaker
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakibul-islam-rahat)
+- 🌐 [Portfolio](https://your-portfolio-site.com)
+- 📬 Email: md94rakibulislam@gmail.com
 
 ---
 
-### 🚀 Tech Stack
-
-**Languages**:  
-`PHP` • `JavaScript (ES6+)` • `HTML5` • `CSS3` • `JSON`
-
-**CMS & Backend**:  
-`WordPress` • `Custom Plugin Development` • `REST API` • `MySQL` • `AJAX`
-
-**Frontend & UI**:  
-`React.js` • `JSX` • `Tailwind CSS` • `Responsive Design`
-
-**Tools & Workflow**:  
-`Git` • `GitHub` • `VS Code` • `Postman` • `Chrome DevTools`  
-`Agile` • `Debugging` • `Code Refactoring` • `Performance Optimization`
-
----
-
-### 📂 Featured Projects
-
-- 🔧 **Custom Membership Plugin**  
-  A fully-featured membership plugin with CPTs, REST API, AJAX-powered filters, and admin panel settings.  
-  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/plugin-repo)
-
-- ⚛️ **React Frontend Dashboard**  
-  Built a single-page React.js dashboard that consumes a REST API and provides live updates.  
-  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/react-dashboard)
-
-- 📦 **Headless WordPress Integration**  
-  Created a headless WordPress REST API with a React frontend.  
-  → [View on GitHub](https://github.com/Rakibul-Islam-Rahat/headless-wp)
-
----
-
-### 🔗 Let’s Connect
-
-- 🌐 Portfolio: [Rahat94](https://rahat94.com)  
-- 💼 LinkedIn: [Md. Rakibul Islam Rahat](https://linkedin.com/in/rakibul-islam-rahat)  
-- 📬 Email: raqibrahat594@gmail.com
+> *"Driven by curiosity. Grounded in fundamentals. Evolving with technology."*
 
 ---
 
