@@ -55,8 +55,8 @@ Full-stack mobile app with cart management, authentication, secure product route
 ### 🤝 Let’s Connect
 
 📫 Email: `md94rakibulislam@gmail.com`  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/rakibul-islam-rahat)  
-🌐 Portfolio: Coming soon → `rahat.dev`  
+🔗 LinkedIn: [linkedin.com/in/rakibul-islam-rahat](https://linkedin.com/in/rakibul-islam-rahat)  
+🌐 Portfolio: → `rahat.dev`  
 
 > Open to freelance work, internships, startup collaborations, and long-term remote opportunities.
 
