@@ -37,8 +37,8 @@ I believe in **clean architecture, continuous learning, and practical problem-so
 
 ## Connect with Me
 
-- LinkedIn: [[LinkedIn URL]](https://www.linkedin.com/in/rakibul-islam-rahat/)  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rakibul-islam-rahat/)  
 - Email: md94rakibulislam@gmail.com  
-- Portfolio: [Portfolio URL]  
+- Portfolio: [Portfolio]  
 
 I am open to **collaborations, mentorship, and professional networking opportunities** in software engineering, full-stack development, and cloud-ready backend systems.
