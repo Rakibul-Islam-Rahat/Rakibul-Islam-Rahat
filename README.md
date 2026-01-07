@@ -1,65 +1,44 @@
-<h1 align="center">🚀 Rahat — Full-Stack Mobile Developer</h1>
-<p align="center">
-  Building modern, scalable mobile applications with clean architecture and real-world performance.<br/>
-  <strong>React Native | Node.js | NestJS | REST APIs | MongoDB | PostgreSQL</strong>
-</p>
+# Md. Rakibul Islam Rahat – Java & Spring Boot Developer
+
+I am a **Java-focused Software Engineer** passionate about building **scalable, secure, and production-ready backend systems** using **Spring Boot** and modern web technologies. I specialize in designing **clean REST APIs**, implementing **enterprise-grade architectures**, and turning complex business requirements into **reliable, maintainable software**.
 
 ---
 
-### 🧩 What I Do
+## Core Skills & Expertise
 
-I engineer **cross-platform mobile applications** powered by scalable and secure backend systems.  
-With a solid foundation in Computer Science, I combine **clean UI development** with **modular backend architecture** to deliver apps that are not just functional — but built to last.
-
-From startup MVPs to client-ready solutions, I work end-to-end: frontend, backend, API integration, and deployment.
-
----
-
-### ⚙️ Tech Stack
-
-**Mobile Development**  
-React Native (Expo & CLI) · JavaScript (ES6+) · TypeScript · React Navigation · Context API · AsyncStorage
-
-**Backend Development**  
-Node.js · NestJS · REST API Design · MongoDB (Mongoose) · PostgreSQL (TypeORM) · JWT Authentication · Business Logic
-
-**DevOps & Tools**  
-Git & GitHub · Railway · Render · Vercel · Postman · GitHub Actions (CI/CD) · Linux (basic server ops)
-
-**Engineering Focus**  
-Modular Architecture · System Design (intermediate) · Caching · Error Handling · Debugging · DSA (Java & JS)
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA, REST APIs  
+**Frontend Integration:** React, Angular  
+**Databases:** PostgreSQL, MySQL  
+**Architecture & System Design:** Monoliths, Microservices, Intermediate System Design  
+**DevOps & Cloud:** Docker, CI/CD pipelines, Cloud-Ready Applications  
+**Authentication & Authorization:** JWT, Role-Based Access Control  
+**Other Strengths:** Clean Code, API Design, Error Handling, Scalability, Practical Problem-Solving  
 
 ---
 
-### 📦 Featured Projects
+## Projects & Highlights
 
-#### 📲 Task Manager App — React Native + NestJS + MongoDB  
-Custom task tracker with user login, CRUD, responsive mobile UI, and a fully protected backend API.
+I focus on **real-world applications** that demonstrate **production readiness and enterprise-grade engineering**:
 
-#### 🛒 E-Commerce MVP — React Native + PostgreSQL  
-Full-stack mobile app with cart management, authentication, secure product routes, and admin APIs.
+**Digital Banking Backend** – Account management, transactions, balance calculations, secure authentication  
+**Microservices E-Commerce Platform** – Multi-service architecture with Spring Cloud, inter-service communication, circuit breakers  
+**SaaS Subscription Management** – Subscription lifecycle, billing logic, multi-tenant architecture  
+**Secure Authentication Service** – OAuth2/JWT, role-based access, audit logging  
 
-> Clean code, solid structure, and performance — not just features.
-
----
-
-### 🎯 Current Mission
-
-- Deliver freelance & remote mobile projects  
-- Build real-world, scalable full-stack apps  
-- Contribute to startups and MVP builds  
-- Keep mastering clean code, backend systems & mobile UX
+All projects follow **best coding practices**, with **clean documentation**, **deployment-ready setups**, and **realistic business use cases**.
 
 ---
 
-### 🤝 Let’s Connect
+## Professional Philosophy
 
-📫 Email: `md94rakibulislam@gmail.com`  
-🔗 LinkedIn: [Md. Rakibul Islam (Rahat)](https://linkedin.com/in/rakibul-islam-rahat)  
-🌐 Portfolio: → `rahat.dev`  
-
-> Open to freelance work, internships, startup collaborations, and long-term remote opportunities.
+I believe in **clean architecture, continuous learning, and practical problem-solving**. My goal is to deliver software that **scales, performs, and adds real value** while growing as a **full-stack engineer ready for enterprise-grade systems**.
 
 ---
 
-<h4 align="center">Let's build something reliable, fast, and future-proof — together.</h4>
+## Connect with Me
+
+- LinkedIn: [[LinkedIn URL]](https://www.linkedin.com/in/rakibul-islam-rahat/)  
+- Email: md94rakibulislam@gmail.com  
+- Portfolio: [Portfolio URL]  
+
+I am open to **collaborations, mentorship, and professional networking opportunities** in software engineering, full-stack development, and cloud-ready backend systems.
