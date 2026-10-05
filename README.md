@@ -1,52 +1,54 @@
-<h1 align="center">👋, Md. Rakibul Islam Rahat</h1>
+<div align="center">
 
-<h3 align="center">Backend / Software Engineer</h3>
+# 👋 Md. Rakibul Islam Rahat
 
-<p align="center">
-  Building scalable, reliable and production-ready backend systems with modern TypeScript technologies.
+### Backend / Software Engineer
+**TypeScript · Node.js · NestJS · Cloud · Distributed Systems**
+
+Building backend systems with a focus on **scalability, reliability, performance, and clean architecture**.
+
+<p>
+  <a href="https://www.linkedin.com/in/rakibul-islam-rahat">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:md94rakibulislam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rakibul-islam-rahat">LinkedIn</a> •
-  <a href="mailto:md94rakibulislam@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
-### 🧩 Tech Stack
+## ⚡ Engineering Stack
 
-**Languages:** JavaScript · TypeScript
-
-**Backend:** Node.js · NestJS · Express.js · REST APIs
-
-**Data:** PostgreSQL · Redis
-
-**Messaging:** RabbitMQ · Apache Kafka · BullMQ
-
-**Cloud & DevOps:** AWS · Docker · GitHub Actions · Linux · NGINX · Kubernetes
-
-**Architecture:** Microservices · Event-Driven Architecture · Distributed Systems · System Design
+| Area | Technologies |
+|---|---|
+| **Languages** | JavaScript · TypeScript |
+| **Backend** | Node.js · NestJS · Express.js · REST APIs |
+| **Database** | PostgreSQL · Redis |
+| **Messaging** | RabbitMQ · Apache Kafka · BullMQ |
+| **Cloud & DevOps** | AWS · Docker · GitHub Actions · Linux · NGINX · Kubernetes |
+| **Architecture** | Microservices · Event-Driven Systems · Distributed Systems · System Design |
 
 ---
 
-### 🎯 Focus
+## 🧠 What I Focus On
 
-Backend Engineering • Cloud-Native Systems • Distributed Systems • System Design
+**Backend Engineering → Cloud Engineering → Distributed Systems → System Design**
 
-I focus on understanding the fundamentals behind modern software systems—not just using frameworks.
+I care about understanding **how systems work under the hood**, not just making applications work.
 
-I also use **AI-assisted development** to improve engineering productivity while maintaining strong technical understanding and ownership.
+Currently building production-oriented backend projects involving:
 
----
+`APIs` · `Authentication` · `PostgreSQL` · `Caching` · `Queues` · `Messaging` · `Microservices` · `Cloud`
 
-### 📌 Currently Building
-
-Production-oriented backend projects focused on:
-
-`APIs` · `Databases` · `Caching` · `Authentication` · `Microservices` · `Messaging` · `Cloud Deployment`
+I also use **AI-assisted development** as an engineering tool while keeping the underlying concepts, decisions, and code under my ownership.
 
 ---
 
-<p align="center">
-  <i>Build. Understand. Scale.</i>
-</p>
+<div align="center">
+
+### 🚀 Build systems. Understand deeply. Scale confidently.
+
+</div>
